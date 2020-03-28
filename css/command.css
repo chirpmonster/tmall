@@ -14,6 +14,7 @@ div.productItem  img:hover {
     filter: alpha(opacity = 70);
 }
 div.categoryWithCarousel div.eachCategory {
+
     line-height: 30px;
     padding-left: 10px;
     font-size: 14px;
@@ -109,7 +110,7 @@ img.endpng {
     margin: 0 auto;
 }
 div.categoryWithCarousel div.eachCategory:hover {
-    background-color: white;
+
 }
 div.categoryWithCarousel div.head {
     width: 200px;
@@ -128,8 +129,6 @@ div.categoryWithCarousel div.headbar {
 img.catear {
     position: absolute;
     height: 15px;
-    left: 260.5px;
-    top: 159.65px;
     display: none;
 }
 div.categoryWithCarousel div.rightMenu {
